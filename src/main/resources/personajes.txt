@@ -1,0 +1,4 @@
+1,Siete de Marzo,Conservación,Hielo,1
+2,Dan Heng,Cacería,Viento,2
+3,Himeko,Erudición,Fuego,3
+4,Welt,Nihilidad,Imaginario,4

@@ -1,0 +1,4 @@
+1,Conservación,Qlipoth
+2,Cacería,Lan
+3,Erudición,Nous
+4,Nihilidad,IX
